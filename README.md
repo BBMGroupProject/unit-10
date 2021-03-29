@@ -42,6 +42,8 @@ Connect users with black-owned businesses. Garner more support and income for bl
 * User can personally add a business
 * Users can search for specific businesses 
 
+### GIF
+
 ### 2. Screen Archetypes
 
 * Lauch Screen
